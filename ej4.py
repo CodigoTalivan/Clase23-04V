@@ -1,1 +1,1 @@
-print("esto es variable {1+2}")
+print(f"esto es variable {1+2}")
